@@ -189,3 +189,24 @@ nav ul{
     border-radius: 3px;
 }
 
+
+.footer{
+    background-color: #0a0826;
+    padding: 55px;
+    /* margin-bottom: -30px; */
+    /* padding-bottom: 5px; */
+    color: #ffffff;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+.footer-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.footer-nav i{
+    background: #22213c;
+    padding: 15px;
+    border-radius: 50%;
+}
